@@ -1,0 +1,11 @@
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\bin\Debug\netstandard2.0\ClassEllips.deps.json
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\bin\Debug\netstandard2.0\ClassEllips.dll
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\obj\Debug\netstandard2.0\ClassEllips.csprojAssemblyReference.cache
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\obj\Debug\netstandard2.0\ClassEllips.AssemblyInfoInputs.cache
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\obj\Debug\netstandard2.0\ClassEllips.AssemblyInfo.cs
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\obj\Debug\netstandard2.0\ClassEllips.csproj.CopyComplete
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\bin\Debug\netstandard2.0\ClassEllips.pdb
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\bin\Debug\netstandard2.0\ClassFigure.dll
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\bin\Debug\netstandard2.0\ClassFigure.pdb
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\obj\Debug\netstandard2.0\ClassEllips.dll
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\Plugins\ClassEllips\obj\Debug\netstandard2.0\ClassEllips.pdb

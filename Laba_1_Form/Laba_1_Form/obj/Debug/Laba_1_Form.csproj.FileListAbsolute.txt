@@ -1,0 +1,15 @@
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\bin\Debug\Laba_1_Form.exe.config
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\bin\Debug\Laba_1_Form.exe
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\bin\Debug\Laba_1_Form.pdb
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\obj\Debug\Laba_1_Form.Form1.resources
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\obj\Debug\Laba_1_Form.Properties.Resources.resources
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\obj\Debug\Laba_1_Form.csproj.GenerateResource.cache
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\obj\Debug\Laba_1_Form.exe
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\obj\Debug\Laba_1_Form.pdb
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\obj\Debug\Laba_1_Form.csprojAssemblyReference.cache
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\bin\Debug\System.Drawing.Common.dll
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\obj\Debug\Laba_1_Form.csproj.CopyComplete
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\bin\Debug\ClassEllips.dll
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\bin\Debug\ClassFigure.dll
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\bin\Debug\ClassEllips.pdb
+C:\Users\Eugene\source\repos\Laba_1_Form\Laba_1_Form\bin\Debug\ClassFigure.pdb
