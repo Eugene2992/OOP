@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Drawing;
+using ClassLibrary;
+
+namespace Laba_1_Form
+{
+    [Serializable]
+    class Trapeze : Figure
+    {
+        public Trapeze(float LineWidthInClass, Color lineColorInClass, List<Point> listOfPoints)
+        {
+            PointListSaved = new Point[listOfPoints.Count];
+            PointList[0] = pointList[0];
+            PointList[1] = pointList[1];
+            PointList[2] = pointList[2];
+            PointList[3] = pointList[3];
+        }
+
+        public override void Draw(Graphics g)
+        {
+            // Установка цвета границы и заливки
+            Pen pen = new Pen(LineColor, LineWeight);
+            SolidBrush brush = new SolidBrush(FigureColor);
+
+            // Формирование массива для отрисовки
+            System.Drawing.Point[] pointListSaved = new System.Drawing.Point[]
+            {
+                new Point(PointListSaved[2].X, PointListSaved[0].Y),
+                new Point(PointListSaved[3].X, PointListSaved[0].Y),
+                new Point(PointListSaved[1].X, PointListSaved[1].Y),
+                new Point(PointListSaved[0].X, PointListSaved[1].Y)
+            };
+
+            g.DrawPolygon(pen, pointList);
+        }
+    }
+}
